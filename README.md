@@ -24,7 +24,11 @@ Please Note: I am unaware as to why i get a response 400 during update and creat
 ## Installation 
 Installation is as follows: npm init, npm install mysql2, npm install sequelize, npm install dotenv.
 ## Usage 
-To Run the application you will need to navigate to the root directory of the project, and perform the following commands: mysql -u root -p (add 'winpty' at the start of this command if you are in gitbash), source db/schema.sql, quit, npm run seed and finally npm start
+To Run the application you will need to navigate to the root directory of the project, and perform the following commands:
+### mysql -u root -p (add 'winpty' at the start of this command if you are in gitbash)
+### source db/schema.sql
+### Quit
+### npm run seed and finally npm start
 ## Contribution 
 Suva Pokharel
 ## Testing 
