@@ -2,6 +2,15 @@
 # e-Commerce Back End Implementation 
 ## Description 
 In this project, i have used created a back end API system for a theoretical e-commerce website, with the use of: express, node, mysql, sequelize and dotenv. The main goal of this project, was to test and consolidate my knowledge on routing and constructing back ends for websites that were more complex in nature that i have tackled in the past.
+
+## Functionality
+# Category demonstration:
+![](https://i.imgur.com/Xgbr8zk.gif)
+# Products Demonstration
+![](https://i.imgur.com/G5MsuYf.gif)
+# Tags Demonstration
+![](https://i.imgur.com/Ruutpco.gif)
+
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
