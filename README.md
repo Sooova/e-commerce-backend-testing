@@ -4,11 +4,13 @@
 In this project, i have used created a back end API system for a theoretical e-commerce website, with the use of: express, node, mysql, sequelize and dotenv. The main goal of this project, was to test and consolidate my knowledge on routing and constructing back ends for websites that were more complex in nature that i have tackled in the past.
 
 ## Functionality
-# Category demonstration:
+### Category demonstration:
 ![](https://i.imgur.com/Xgbr8zk.gif)
-# Products Demonstration
+### Products Demonstration
 ![](https://i.imgur.com/G5MsuYf.gif)
-# Tags Demonstration
+
+Please Note: I am unaware as to why i get a response 400 during update and create requests in the product routes. I have tried to remedy it, but have not come up with a solution as of yet. 
+### Tags Demonstration
 ![](https://i.imgur.com/Ruutpco.gif)
 
 ## Table of Contents 
